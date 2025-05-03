@@ -11,41 +11,41 @@ The store seeks to improve its overall sales and market reach in 2023. Understan
 ## Methodology
 
 ### Data Cleaning:
-• Removed inconsistencies using Find and Replace.
-• Formatted numerical values (e.g., converted decimals to integers).
-• Standardized date formats.
-• Used PROPER() formula to fix formatting issues in city and state names.
-• Categorized customer ages into groups: Teenager, Adult, Middle-Aged, Senior.
+- Removed inconsistencies using Find and Replace.
+- Formatted numerical values (e.g., converted decimals to integers).
+- Standardized date formats.
+- Used PROPER() formula to fix formatting issues in city and state names.
+- Categorized customer ages into groups: Teenager, Adult, Middle-Aged, Senior.
 
 ### Data Analysis Using Pivot Tables & Charts:
-• Built Pivot Tables to summarize sales by region, gender, category, and channel.
-• Created visual charts for better interpretation of trends and insights.
+- Built Pivot Tables to summarize sales by region, gender, category, and channel.
+- Created visual charts for better interpretation of trends and insights.
 
 
 ## Key Insights
 
 ### Gender-Based Sales:
-• Women contributed 64% of total sales, while men contributed 36%.
-This shows women are the key buyers on the platform.
+- Women contributed 64% of total sales, while men contributed 36%.
+- This shows women are the key buyers on the platform.
 
 ### Product Category Performance:
-• Set sales dominated (10.60M), far ahead of other categories.
-• Categories like bottom wear (0.03M) and blouses (0.15M) performed poorly.
+- Set sales dominated (10.60M), far ahead of other categories.
+- Categories like bottom wear (0.03M) and blouses (0.15M) performed poorly.
 
 ### Sales by Channel:
-• Amazon led with 7.60M, followed by Myntra (5.00M) and Flipkart (4.65M).
-• Niche platforms (like Nalli and Meesho) had much lower sales.
+- Amazon led with 7.60M, followed by Myntra (5.00M) and Flipkart (4.65M).
+- Niche platforms (like Nalli and Meesho) had much lower sales.
 
 ### Sales by Age Group:
-• Adults (10.77M) made the most purchases.
-• Teenagers and seniors had the lowest contributions.
+- Adults (10.77M) made the most purchases.
+- Teenagers and seniors had the lowest contributions.
 
 ### Regional Sales (Top & Bottom Cities):
-• Bangalore, Hyderabad, and New Delhi were top-performing cities.
-• Dharamshala, Multai, and Elgaid showed very low sales (below 350 units).
+- Bangalore, Hyderabad, and New Delhi were top-performing cities.
+- Dharamshala, Multai, and Elgaid showed very low sales (below 350 units).
 
 ### Monthly Sales Trend:
-• Sales peaked in February and March, then slowly declined through the year.
+- Sales peaked in February and March, then slowly declined through the year.
 
 
 ## Suggestions to Increase Sales in 2023
