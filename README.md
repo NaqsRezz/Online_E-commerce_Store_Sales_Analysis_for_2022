@@ -1,14 +1,12 @@
-# Online_E-commerce_Store_Sales_Analysis_for_2022
+# Online E-commerce Store Sales Analysis for 2022
 
 ## Project Overview
 This project analyzes the sales performance of an online e-commerce store using Excel for the year 2022. The aim is to uncover key trends and provide data-driven suggestions to improve sales in 2023. The data was cleaned and analyzed using Pivot Tables and Pivot Charts for effective visual insights.
 
----
 
 ## Problem Statement
 The store seeks to improve its overall sales and market reach in 2023. Understanding customer buying behavior, product preferences, and regional performance is essential for optimizing business strategies.
 
----
 
 ## Methodology
 
@@ -23,7 +21,6 @@ The store seeks to improve its overall sales and market reach in 2023. Understan
 • Built Pivot Tables to summarize sales by region, gender, category, and channel.
 • Created visual charts for better interpretation of trends and insights.
 
----
 
 ## Key Insights
 
@@ -50,7 +47,6 @@ This shows women are the key buyers on the platform.
 ### Monthly Sales Trend:
 • Sales peaked in February and March, then slowly declined through the year.
 
----
 
 ## Suggestions to Increase Sales in 2023
 
